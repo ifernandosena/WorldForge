@@ -1,11 +1,6 @@
-DESENVOLVIDO POR LUIZ FERNANDO R. SENA 
-
-# WorldForge
-RPG - Crie sua conta se aloque no castelo e construa novas amizades nesse imenso mundo . 
-
-
-
 # WorldForge RPG
+
+![WorldForge](https://i.ibb.co/ccbfjQL1/ss.png)
 
 WorldForge é um jogo de RPG online onde os jogadores começam com 0 créditos e podem evoluir ao longo da jornada, completando missões, negociando itens e criando clãs. O jogo se passa em um castelo gigante, com cada jogador alocado em um quarto exclusivo, onde pode adquirir itens raros, negociar roupas, acessórios e mobílias.
 
@@ -58,4 +53,3 @@ Este projeto está licenciado sob a Licença MIT - consulte o [LICENSE](LICENSE)
 ## Autor
 
 Jogo criado e desenvolvido por Luiz Fernando R. Sena.
-
